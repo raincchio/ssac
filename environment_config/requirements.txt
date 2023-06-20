@@ -1,0 +1,8 @@
+conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
+numpy==1.21.6
+mujoco-py==2.0.2.13
+gym==0.12.5
+protobuf==3.20.3
+ray==0.8.0
+python-dateutil==2.8.0
+gtimer tqdm
